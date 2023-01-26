@@ -11,7 +11,7 @@ import SwiftUI
 struct TermRecapApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SymbolView(symbolT: "popcorn")
         }
     }
 }
